@@ -1,0 +1,29 @@
+- [x] Watch this YT <https://www.youtube.com/watch?v=vVg7WrelMeA>
+- [ ] Create a google slides which similar to Ryan 
+- [ ] For each python libraries for machine learning short description  and some code in the later slides 
+	- [x]  TensorFlow 
+	- [x] PyTorch 
+		- [ ] replace model to torchvision
+	- [x] Scikit Learn 
+		- [ ] image
+		- [ ] code 
+		- [ ] slides
+	- [ ] XGBoost
+		- [ ] use a different datasets
+	- [x] Numpy
+	- [x] Matplotlib
+	- [x] Seaborn
+	- [x] Pandas 
+	- [x] ScipY
+	- [x] Rich 
+	- [ ] AutoML
+		- [ ] Optuna
+		- [ ] GLUON
+	- [ ] Hugging Face Transformers 
+		- [ ] Train Text Classification using a small neural magic model 
+			- [ ] turn dropout rate to zero 
+	- [x] timm for computer vision 
+	- [x] datasets
+	- [ ] open cv 
+	- [ ] Optimum 
+		- [ ] Neural Compressor
