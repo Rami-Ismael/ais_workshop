@@ -1,5 +1,5 @@
-- [x] Watch this YT <https://www.youtube.com/watch?v=vVg7WrelMeA>
-- [ ] Create a google slides which similar to Ryan 
+- [x] Watch this YT https://www.youtube.com/watch?v=vVg7WrelMeA
+- [x] Create a google slides which similar to Ryan 
 - [ ] For each python libraries for machine learning short description  and some code in the later slides 
 	- [x]  TensorFlow 
 	- [x] PyTorch 
@@ -27,3 +27,7 @@
 	- [ ] open cv 
 	- [ ] Optimum 
 		- [ ] Neural Compressor
+	- [ ] Spacy
+	- [ ] NLTK 
+	- [ ] Create an order base on the topic material 
+	- [ ] Look through the slides 
